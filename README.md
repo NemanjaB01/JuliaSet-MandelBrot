@@ -1,4 +1,4 @@
-# Objektorientierte Programmierung 2 KU Assignment 2022
+# Object Oriented Programming 2 KU Assignment 2022
 
 # Overview
 
